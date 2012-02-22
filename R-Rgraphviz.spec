@@ -10,11 +10,11 @@ License:          Artistic-2.0
 URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-methods R-utils R-graph R-grid
-Requires:         R-graph R-graphics R-grDevices R-grid R-methods R-utils
+Requires:         R-graphics R-grDevices R-grid R-methods R-utils
 Requires:         graphviz
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods
-BuildRequires:    R-utils R-graph R-grid R-graph R-graphics R-grDevices
-BuildRequires:    R-grid R-methods R-utils 
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-methods R-utils R-graph R-grid
+BuildRequires:    R-graphics R-grDevices R-grid R-methods R-utils
 BuildRequires:    blas-devel
 BuildRequires:    graphviz-devel
 BuildRequires:    lapack-devel
