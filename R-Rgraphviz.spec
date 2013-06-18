@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.32.0
-Release:          2
+Release:          3
 Summary:          Provides plotting capabilities for R graph objects
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
