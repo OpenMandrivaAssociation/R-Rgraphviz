@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.2.1
+Version:          2.4.1
 Release:          1
 Summary:          Provides plotting capabilities for R graph objects
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
 URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
-Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/Rgraphviz_2.2.1.tar.gz
+Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/Rgraphviz_2.4.1.tar.gz
 Requires:         R-methods R-utils R-graph R-grid
 Requires:         R-graphics R-grDevices R-grid R-methods R-utils
 Requires:         graphviz
