@@ -7,7 +7,7 @@ Release:          3
 Summary:          Provides plotting capabilities for R graph objects
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-methods R-utils R-graph R-grid
 Requires:         R-graphics R-grDevices R-grid R-methods R-utils
